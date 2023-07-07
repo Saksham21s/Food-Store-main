@@ -159,7 +159,7 @@ To run the application open index.html in the live server.
 If you want to contact me, you can reach me through below handles.
 
 [![linkedin](https://img.shields.io/badge/saksham-pandey21?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saksham-pandey21/)
-[![Github](https://img.shields.io/badge/Saksham21s?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/m-sehrawat/)
+[![Github](https://img.shields.io/badge/Saksham21s?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/Saksham21s/)
 
 © 2023 Saksham Pandey
 
