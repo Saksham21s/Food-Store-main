@@ -104,7 +104,7 @@ This project was built using HTML5, CSS3, JavaScript, Rest API. It is an e-comme
 ### Setup
 
 
-The project repository can be found in [GitHub link](https://github.com/m-sehrawat/Food-Store) or just clone the project using this command. 
+The project repository can be found in [GitHub link](https://github.com/Saksham21s/Food-Store) or just clone the project using this command. 
 
 
 ```
